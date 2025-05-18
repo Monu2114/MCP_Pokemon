@@ -12,8 +12,9 @@
 
 Welcome to the **Pokémon MCP Server**! This project lets you:
 
-- 🗂️ **Fetch Pokémon Data:** Get detailed info (stats, types, abilities, moves, evolution chain) from the public PokéAPI.
-- ⚔️ **Simulate Battles:** Run simple Pokémon battles with type effectiveness and status effects.
+- 🗂️  **Fetch Pokémon Data:** Get detailed info (stats, types, abilities, moves, evolution chain) from the public PokéAPI.
+
+- ⚔️  **Simulate Battles:** Run simple Pokémon battles with type effectiveness and status effects.
 
 The server exposes these features via the Model Context Protocol (MCP), and a client can call the resource and the tool.
 
@@ -41,7 +42,7 @@ pip install -r requirements.txt
 2. **Start the server** (TCP transport):
 
 ```bash
-python pokemon_mcp.py
+python pokemon.py
 ```
 
 > 🟢 **This will start the MCP server on `localhost:12345`.**
