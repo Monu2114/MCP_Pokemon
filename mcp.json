@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "pokemon": {
+      "command": "py",
+      "args": [
+        "C:\\Users\\User\\assignment\\pokemon.py"
+      ],
+      "workingDirectory": "C:\\Users\\User\\assignment"
+    }
+  }
+}
