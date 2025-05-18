@@ -83,7 +83,7 @@ python pokemon_client.py
 
 ## Example Usage
 
-<p align="center">
+<p align="flex flex-col align-center">
   <img src="resources.png" alt="Resource Example" width="350"/>
   <img src="battle.png" alt="Battle Example" width="350"/>
 </p>
