@@ -1,19 +1,11 @@
 {
-    "mcpServers": {
-      "weather": {
-        "command": "py",
-        "args": [
-          "C:\\Users\\User\\assignment\\server.py"
-        ],
-        "workingDirectory": "C:\\Users\\User\\assignment"
-      },
-      "pokemon": {
-        "command": "py",
-        "args": [
-          "C:\\Users\\User\\assignment\\pokemon.py"
-        ],
-        "workingDirectory": "C:\\Users\\User\\assignment"
-      },
+  "mcpServers": {
+    "pokemon": {
+      "command": "python",
+      "args": [
+        "pokemon.py"
+      ],
+      "workingDirectory": "."
     }
   }
-  
+}
