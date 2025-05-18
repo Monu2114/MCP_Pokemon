@@ -214,4 +214,3 @@ def simulate_battle(pokemon1: str, pokemon2: str):
 
 if __name__ == "__main__":
     mcp.run(transport="tcp", host="127.0.0.1", port=12345)
-
